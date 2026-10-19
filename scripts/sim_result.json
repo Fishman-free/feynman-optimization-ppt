@@ -1,0 +1,7 @@
+{
+  "open_loop_final_mean": 0.988,
+  "closed_loop_final": 0.006,
+  "closed_below_10pct_at_iter": 6,
+  "retention_7d_reading": 0.03,
+  "retention_7d_output": 0.311
+}
